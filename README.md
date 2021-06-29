@@ -4,7 +4,7 @@
 
 - FiveM HUD built with React + Typescript. Design was used from another HUD. Only way to edit the HUD for personal likings is only done within SCSS. Will make a more easily configurable HUD in the future.
 
-**Guide on how to start using the HUD:**
+**Guide on how to start editing the HUD:**
 
 1.  Navigate to the **ui** folder within the resource and run the command bellow to install the necessary packages.
 
@@ -22,4 +22,4 @@
 
 **Images:**
 
-![hudimage](https://i.imgur.com/wG4d9Oc.png)
+![hudimage](https://imgur.com/SUWyjbO)
