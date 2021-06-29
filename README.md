@@ -22,4 +22,4 @@
 
 **Images:**
 
-![hudimage](https://imgur.com/SUWyjbO)
+![hudimage](https://i.imgur.com/SUWyjbO.png)
