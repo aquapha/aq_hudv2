@@ -1,8 +1,8 @@
 fx_version "adamant"
 
-author "Kovalskis#5875"
+author "Kovalskis"
 description "Minimalistic FiveM HUD"
-version "1.0.0"
+version "2.0.0"
 
 games {"gta5"}
 
