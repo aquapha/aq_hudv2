@@ -1,4 +1,4 @@
-# Minimalistic FiveM HUD.
+# Minimalistic FiveM HUD V2.
 
         Plug and play since: 2021/06/29
 
